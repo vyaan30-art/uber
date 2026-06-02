@@ -1,3 +1,4 @@
+![Project Overview](project-overview.png)
 # Uber Fare Prediction Using Regression Analysis
 
 ## Overview
